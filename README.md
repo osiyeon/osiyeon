@@ -1,7 +1,7 @@
-<h3>Siyeon Oh</h3>
+<h2>Siyeon Oh</h2>
 Hi there 👋
 
-<h5>🔅 Stats</h5>
+<h3>🔅 Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiyeon&show_icons=true&bg_color=00000000)
 <br />
