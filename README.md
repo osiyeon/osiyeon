@@ -1,9 +1,26 @@
-<h2>Siyeon Oh</h2>
-Hi there 👋
+## Hi there 👋
 
-<h3>🔅 Stats</h3>
+Fullstack Developer (JavaScript / TypeScript)  
+Currently working as Tech Lead
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiyeon&show_icons=true&bg_color=00000000)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiyeon&langs_count=5)
+- Building scalable web services
+- Interested in product thinking & system design
+- Leading small agile teams
 
+## 💡 About Me
+
+- 4+ years of experience in fullstack development
+- Experienced in leading squads and driving product delivery
+- Focused on building maintainable and scalable systems
+- Strong interest in bridging business and engineering
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React, Next.js
+
+**Backend**
+- Node.js, Express, NestJS
+
+**Database & Infra**
+- MongoDB, Redis, Docker, AWS
